@@ -19,7 +19,7 @@ see example.py
 
 Required / Recommended libraries
 * [python-bson] some functionality will work without this library
-
+* [python-dateutil] some functionality will work without this library
 
 ## Versioning
 
